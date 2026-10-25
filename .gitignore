@@ -1,0 +1,17 @@
+# macOS files
+.DS_Store
+**/.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Generated output
+output/
+processed_data/
